@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4deb9b100dacc8f215f0fdf6d0a8f429",
+    "revision": "2c22e743a3b588cefda009d9be5460a5",
     "url": "/financee-dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/financee-dashboard/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "557add3f30988c75aa03",
+    "revision": "7724dd88a8a81e2ee984",
     "url": "/financee-dashboard/static/css/main.6301b4c7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/financee-dashboard/static/js/2.21e283d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "557add3f30988c75aa03",
-    "url": "/financee-dashboard/static/js/main.bd9492ed.chunk.js"
+    "revision": "7724dd88a8a81e2ee984",
+    "url": "/financee-dashboard/static/js/main.9c032376.chunk.js"
   },
   {
     "revision": "d2fbad6fad6d335bc849",
