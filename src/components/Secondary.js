@@ -7,8 +7,8 @@ class Secondary extends Component {
     return (
       <div className="col-3 d-flex flex-column no-overflow-y" style={{background: '#f6f8fc'}}>
         <div className="row">
-          <div className="col-12 header-area">
-            <h2>Header Area</h2>
+          <div className="col-12 header-area d-flex align-items-center">
+            <h2 className="title">Header Area</h2>
           </div>
         </div>
         <div className="row flex-grow-1">
