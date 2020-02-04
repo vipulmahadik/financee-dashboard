@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/financee-dashboard/static/css/main.6301b4c7.chunk.css",
+    "main.js": "/financee-dashboard/static/js/main.bd9492ed.chunk.js",
+    "main.js.map": "/financee-dashboard/static/js/main.bd9492ed.chunk.js.map",
+    "runtime-main.js": "/financee-dashboard/static/js/runtime-main.e252ed61.js",
+    "runtime-main.js.map": "/financee-dashboard/static/js/runtime-main.e252ed61.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/financee-dashboard/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.21e283d2.chunk.js": "/financee-dashboard/static/js/2.21e283d2.chunk.js",
+    "static/js/2.21e283d2.chunk.js.map": "/financee-dashboard/static/js/2.21e283d2.chunk.js.map",
+    "index.html": "/financee-dashboard/index.html",
+    "precache-manifest.eea9a2137a34fc1aac9926b8284566d8.js": "/financee-dashboard/precache-manifest.eea9a2137a34fc1aac9926b8284566d8.js",
+    "service-worker.js": "/financee-dashboard/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/financee-dashboard/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.6301b4c7.chunk.css.map": "/financee-dashboard/static/css/main.6301b4c7.chunk.css.map",
+    "static/js/2.21e283d2.chunk.js.LICENSE.txt": "/financee-dashboard/static/js/2.21e283d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e252ed61.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.21e283d2.chunk.js",
+    "static/css/main.6301b4c7.chunk.css",
+    "static/js/main.bd9492ed.chunk.js"
+  ]
+}
